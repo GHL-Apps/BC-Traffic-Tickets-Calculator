@@ -1,5 +1,6 @@
 ---
 layout: page
+theme: 
 title: "Privacy Policy"
 permalink: /privacy/
 ---
