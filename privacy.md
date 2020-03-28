@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Privacy Policy"
+permalink: /privacy/
+---
+
 ## Privacy Policy
 
 The BC Traffic Tickets Calculator is as a Free app. This SERVICE is provided at no cost and is intended for use as is.
