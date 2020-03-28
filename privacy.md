@@ -1,6 +1,6 @@
 ---
 layout: page
-theme: 
+theme: jekyll-theme-slate
 title: "Privacy Policy"
 permalink: /privacy/
 ---
