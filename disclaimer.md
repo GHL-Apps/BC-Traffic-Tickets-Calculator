@@ -24,5 +24,5 @@ MVAR Points
 
 ### Contact Us
 
-If you have any questions or suggestions about BC Traffic Tickets Calculator, do not hesitate to contact us at gabhualap@gmail.com .
+If you have any questions or suggestions about BC Traffic Tickets Calculator, do not hesitate to contact us at <gabhualap@gmail.com> .
 
