@@ -1,13 +1,12 @@
 ---
 layout: default
-theme: jekyll-theme-slate
 title: "Privacy Policy"
 permalink: /privacy/
 ---
 
 ## Privacy Policy
 
-The BC Traffic Tickets Calculator is as a Free app. This SERVICE is provided at no cost and is intended for use as is.
+The BC Traffic Tickets Calculator is as a free app with advertisements with the option of an in-app purchase to remove the advertisements. This SERVICE is provided at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -25,6 +24,7 @@ Link to privacy policy of third party service providers used by the app
 
 - [Google Firebase privacy policy](https://firebase.google.com/support/privacy)
 - [Google Analytics privacy policy](https://firebase.google.com/policies/analytics)
+- [Google AdMob privacy policy](https://support.google.com/admob/answer/6128543?hl=en)
 
 
 ### Log Data
