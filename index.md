@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 ## Privacy Policy
 
 [Privacy policy](https://ghl-apps.github.io/bc-traffic-tickets-calculator/privacy/)
