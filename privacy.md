@@ -68,4 +68,4 @@ This Privacy Policy may be updated from time to time. Thus, you are advised to r
 
 ### Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at gabhualap@gmail.com .
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at <gabhualap@gmail.com> .
