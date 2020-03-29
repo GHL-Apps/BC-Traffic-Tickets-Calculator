@@ -18,9 +18,10 @@ The data provided in this app has been taken from the official sources listed be
 
 ### Sources
 
-ICBC Risk premium
-MVAR Cost
-MVAR Points
+- [ICBC Penalty Points chart](https://www.icbc.com/driver-licensing/tickets/Pages/Driver-Penalty-Points.aspx)
+- [ICBC Risk premium](https://www.icbc.com/driver-licensing/tickets/Pages/Driver-Risk-Premium.aspx)
+- [Offfence Act Violation Ticket Administration and Fines Regulations](http://www.bclaws.ca/civix/document/id/complete/statreg/89_97_04)
+- [Motor Vehicle Act Regulations Points](http://www.bclaws.ca/civix/document/id/complete/statreg/26_58_08#division_d2e23719)
 
 ### Contact Us
 
