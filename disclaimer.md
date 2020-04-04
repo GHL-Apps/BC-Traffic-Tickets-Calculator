@@ -24,6 +24,11 @@ The data provided in this app has been taken from the official sources listed be
 - [Offfence Act Violation Ticket Administration and Fines Regulations](http://www.bclaws.ca/civix/document/id/complete/statreg/89_97_04)
 - [Motor Vehicle Act Regulations Points](http://www.bclaws.ca/civix/document/id/complete/statreg/26_58_08#division_d2e23719)
 
+### Special Thanks
+
+- [Pixabay for their free and royalty free images](https://pixabay.com)
+- JF Lafortune for the App Icon
+
 ### Contact Us
 
 If you have any questions or suggestions about BC Traffic Tickets Calculator, do not hesitate to contact us at <gabhualap@gmail.com> .
