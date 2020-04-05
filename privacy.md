@@ -15,12 +15,11 @@ If you choose to use this Service, then you agree to the collection and use of i
 
 ### Information Collection and Use
 
-The app does not require authentication, therefore no personal information such as name or email address is collected by this app.
+The app uses anonymus authentication to access the database, therefore no personal information such as name or email address is collected by this app.
 
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
-
 
 - [Google Firebase privacy policy](https://firebase.google.com/support/privacy)
 - [Google Analytics privacy policy](https://firebase.google.com/policies/analytics)
